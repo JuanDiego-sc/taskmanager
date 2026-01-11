@@ -1,0 +1,8 @@
+com/example/taskmanager/TaskManagerTest$MockTaskService.class
+com/example/taskmanager/TaskManagerTest$MockTaskPresenter.class
+com/example/taskmanager/services/TaskServiceImplTest.class
+com/example/taskmanager/models/TaskTest.class
+com/example/taskmanager/presentation/ConsoleTaskPresenterTest.class
+com/example/taskmanager/TaskManagerTest.class
+com/example/taskmanager/config/ApplicationFactoryTest.class
+com/example/taskmanager/repositories/InMemoryTaskRepositoryTest.class

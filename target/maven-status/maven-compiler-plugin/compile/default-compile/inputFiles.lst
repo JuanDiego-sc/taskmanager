@@ -1,2 +1,10 @@
+/Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/models/Task.java
+/Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/config/ApplicationFactory.java
+/Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/presentation/TaskPresenter.java
+/Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/repositories/InMemoryTaskRepository.java
+/Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/repositories/TaskRepository.java
+/Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/services/TaskServiceImpl.java
+/Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/services/TaskService.java
 /Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/TaskManager.java
 /Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/Main.java
+/Users/jotade/Documents/Repositories/taskmanager/src/main/java/com/example/taskmanager/presentation/ConsoleTaskPresenter.java
