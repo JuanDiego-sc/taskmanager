@@ -1,2 +1,10 @@
-com/example/taskmanager/TaskManager.class
 com/example/taskmanager/Main.class
+com/example/taskmanager/services/TaskService.class
+com/example/taskmanager/repositories/TaskRepository.class
+com/example/taskmanager/TaskManager.class
+com/example/taskmanager/presentation/TaskPresenter.class
+com/example/taskmanager/presentation/ConsoleTaskPresenter.class
+com/example/taskmanager/services/TaskServiceImpl.class
+com/example/taskmanager/repositories/InMemoryTaskRepository.class
+com/example/taskmanager/models/Task.class
+com/example/taskmanager/config/ApplicationFactory.class
